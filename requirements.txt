@@ -7,3 +7,4 @@ sentence-transformers
 ollama
 fastcoref
 pandas
+streamlit
