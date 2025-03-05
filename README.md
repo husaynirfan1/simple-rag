@@ -81,7 +81,8 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 📧 Contact
-For any questions or collaboration, reach out via:
+![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - **Gmail**: [mhusaynirfan@gmail.com](mailto:mhusaynirfan@gmail.com)
 - **GitHub Issues**: [Open an issue](https://github.com/husaynirfan1/simple-rag/issues)
 - **Linked In**: [Husayn Irfan](https://my.linkedin.com/in/husayn-irfan-7b4103258)
