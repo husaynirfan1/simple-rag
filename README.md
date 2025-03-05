@@ -45,7 +45,7 @@ pip install nltk
 
 ### 5️⃣ Run Streamlit App
 ```sh
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## 🔄 Flowchart
