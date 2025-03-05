@@ -1,2 +1,2 @@
 # simple-rag
-Simple RAG system. 
+Simple RAG system utilizing Milvus(Zilliz Cloud) for vector database.
