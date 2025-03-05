@@ -43,7 +43,7 @@ This project uses **NLTK** for text chunking. After chunking, context is injecte
 pip install nltk
 ```
 
-### 4️⃣ Process and Insert Data
+### 5️⃣ Process and Insert Data
 Run insertDataChunks.py. It will ask to input path of folder. Use `folder` path in the current repo for testing.
 
 ```python
@@ -51,7 +51,7 @@ python insertDataChunks.py
 Path: /folder
 ```
 
-### 5️⃣ Run Streamlit App
+### 6️⃣ Run Streamlit App
 ```sh
 streamlit run streamlit_app.py
 ```
