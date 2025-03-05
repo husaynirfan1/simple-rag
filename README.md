@@ -84,3 +84,4 @@ This project is open-source under the **MIT License**.
 For any questions or collaboration, reach out via:
 - **Gmail**: [mhusaynirfan@gmail.com](mailto:mhusaynirfan@gmail.com)
 - **GitHub Issues**: [Open an issue](https://github.com/husaynirfan1/simple-rag/issues)
+- **Linked In**: [Husayn Irfan](https://my.linkedin.com/in/husayn-irfan-7b4103258)
