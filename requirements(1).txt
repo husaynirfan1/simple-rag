@@ -1,0 +1,9 @@
+pymilvus
+pymilvus[model]
+python-telegram-bot
+torch 
+datasets
+sentence-transformers
+ollama
+fastcoref
+pandas
