@@ -426,7 +426,7 @@ async def specs(update: Update, context: CallbackContext) -> None:
 
 def main():
     # Set up the Application with your bot token
-    #application = Application.builder().token("7559735708:AAG9SqxYi0PsvJsuopEu67_ZLYoRt0PiSiY").build()
+    #application = Application.builder().token("TELEGRAMBOTTOKEN").build()
     
     # Add handlers for commands and messages
     #application.add_handler(CommandHandler("start", start))
