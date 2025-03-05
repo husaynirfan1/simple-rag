@@ -1,6 +1,6 @@
 # Simple RAG 📌
 
-*A lightweight Retrieval-Augmented Generation (RAG) system utilizing Milvus (Zilliz Cloud) as a vector database.*
+*A not-so-lightweight Retrieval-Augmented Generation (RAG) system utilizing Milvus (Zilliz Cloud) as a vector database.*
 
 This project uses scraped **Al-Manar News** as sample data.
 
