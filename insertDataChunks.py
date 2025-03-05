@@ -21,14 +21,14 @@ current_date_str = datetime.now().strftime("%Y-%m-%d")
 
 # Connect to Zilliz Cloud (Milvus)
 client = MilvusClient(
-    uri="https://in03-e258b56feec6af7.serverless.gcp-us-west1.cloud.zilliz.com",
-    token="927488e836671a8d541cf0c2d939f9338aaa3e44828c044c56e46db941054a6906b4ffee7d3cf3eb3fa44446a802d488d4fdae97"
+    uri=URI_GOES_HERE,
+    token=TOKEN_GOES_HERE
 )
 # Connect to Milvus server (Zilliz Cloud)
 connections.connect(
     alias="default", 
-    uri="https://in03-e258b56feec6af7.serverless.gcp-us-west1.cloud.zilliz.com", 
-    token="927488e836671a8d541cf0c2d939f9338aaa3e44828c044c56e46db941054a6906b4ffee7d3cf3eb3fa44446a802d488d4fdae97"
+    uri=URI_GOES_HERE,
+    token=TOKEN_GOES_HERE
 )
 
 # Download NLTK punkt tokenizer (run once if not already downloaded)
