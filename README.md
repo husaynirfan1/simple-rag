@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Install & Configure Ollama
-This project uses **Llama 3.1 8B** for contextual chunking and **Qwen2.5 14B** for user interaction. You can modify these in `insertDataChunks.py` and the Streamlit app script.
+This project uses **Llama 3.1 8B** for contextual chunking and **Qwen2.5 14B** for user interaction. You can modify these in `insertDataChunks.py` and the Streamlit `streamlit_app.py` script.
 
 ### 4️⃣ Install NLTK
 This project uses **NLTK** for text chunking. After chunking, context is injected into the chunks, ensuring that the uploaded vectorized hybrid (sparse and dense) data includes both the original text and contextual chunks.
